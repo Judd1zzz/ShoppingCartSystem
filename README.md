@@ -38,5 +38,4 @@ Bot was started
 
 <p align="center">
 <a href="https://t.me/Judd1zzz"><img src="https://img.shields.io/badge/Telegram-36393f.svg?style=for-the-badge&logo=Telegram&labelColor=FFFFFF" alt="Telegram"></a>
-<a href="https://vk.com/dev_cdz_bot"><img src="https://img.shields.io/badge/VKontakte-FFFFFF.svg?style=for-the-badge&logo=VK&logoColor=FFFFFF&labelColor=blue" alt="VKontakte"></a>
 </p>
